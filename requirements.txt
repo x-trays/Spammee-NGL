@@ -6,3 +6,4 @@ concurrent.futures
 sys
 os
 thread
+pycryptodome
