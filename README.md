@@ -34,8 +34,8 @@ Contoh: asepxd
 
 ```
 # Download code
-git clone https://github.com/username/spammee-ngl.git
-cd spammee-ngl
+git clone https://github.com/x-trays/Spammee-NGL.git
+cd Spammee-NGL
 
 # Install modules
 pip3 install requests random threading time concurrent.futures sys os thread
@@ -43,8 +43,8 @@ pip3 install requests random threading time concurrent.futures sys os thread
 pkg update && pkg upgrade
 pkg install python git
 
-git clone https://github.com/username/spammee-ngl.git
-cd spammee-ngl
+git clone https://github.com/x-trays/Spammee-NGL.git
+cd Spammee-NGL
 
 pip install requests random threading time concurrent.futures sys os thread
 
@@ -54,8 +54,8 @@ pip install requests random threading time concurrent.futures sys os thread
 
 ```bash
 # Download code
-git clone https://github.com/username/spammee-ngl.git
-cd spammee-ngl
+git clone https://github.com/x-trays/Spammee-NGL.git
+cd Spammee-NGL
 
 # Install modules
 pip3 install requests random threading time concurrent.futures sys os thread
