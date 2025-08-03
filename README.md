@@ -46,7 +46,7 @@ pkg install python git
 git clone https://github.com/x-trays/Spammee-NGL.git
 cd Spammee-NGL
 
-pip install requests random threading time concurrent.futures sys os thread
+pip install requests random threading time concurrent.futures sys os thread pycryptodome
 
 ---
 
