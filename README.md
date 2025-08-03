@@ -62,3 +62,12 @@ pip3 install requests random threading time concurrent.futures sys os thread
 
 
 ---
+
+---
+
+exec : python3 spammerngl.py
+     or
+
+     python  spammerngl.py
+
+---
